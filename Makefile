@@ -17,6 +17,5 @@ install:
 	cp -r android $(DESTDIR)/$(INCLUDEDIR)
 	cp -r linux $(DESTDIR)/$(INCLUDEDIR)
 	cp -r sync $(DESTDIR)/$(INCLUDEDIR)
-	cp -r libnfc-nxp $(DESTDIR)/$(INCLUDEDIR)
 	cp -r private $(DESTDIR)/$(INCLUDEDIR)
 	cp -r log $(DESTDIR)/$(INCLUDEDIR)
